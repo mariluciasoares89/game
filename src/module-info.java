@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mari
+ *
+ */
+module game {
+}
